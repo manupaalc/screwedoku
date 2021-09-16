@@ -4,10 +4,10 @@ GEM
     colorize (0.8.1)
 
 PLATFORMS
-  x86_64-linux
+  ruby
 
 DEPENDENCIES
   colorize
 
 BUNDLED WITH
-   2.2.16
+   2.1.4
